@@ -33,7 +33,10 @@
         "esbenp.prettier-vscode",
         "cweijan.vscode-mysql-client2",
         "rangav.vscode-thunder-client",
-        "formulahendry.auto-rename-tag"
+        "formulahendry.auto-rename-tag",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter"
       ]
     }
   }
